@@ -7,6 +7,6 @@
 - Università Cattolica del Sacro Cuore | Bachelors, Marketing & Management 
 
 ## Work Experience
-**Software developer @ H&S (_May 2019_)
+- Software developer @ H&S (_May 2019_)
 
 ## Projects
