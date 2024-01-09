@@ -12,3 +12,4 @@
 ## Projects
 - https://github.com/TommasoGuasti1/ExpenseTracker
 - https://github.com/TommasoGuasti1/Data-Driven-Insights-Analyzing-Advertisement-Engagement
+- https://github.com/TommasoGuasti1/DataAnalyticsFinance
